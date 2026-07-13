@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Los datos se regeneran con run_all.py
+# data/weather_data.csv se incluye para que el dashboard funcione sin ejecutar

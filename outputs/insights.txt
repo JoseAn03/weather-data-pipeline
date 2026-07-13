@@ -1,0 +1,13 @@
+WEATHER DATA PIPELINE — INSIGHTS
+========================================
+
+🔥 Ciudad más cálida: Mumbai (27.5°C)
+❄️ Ciudad más fría: New York (12.4°C)
+🌧️ Ciudad más lluviosa: Mumbai (2,458 mm)
+☀️ Ciudad más seca: Madrid (548 mm)
+
+🇨🇷 San José, Costa Rica:
+   • Temp media: 20.7°C
+   • Precipitación total: 2,198 mm
+   • Días de lluvia: 79% del año
+   • Días calurosos (>30°C): 0 días
